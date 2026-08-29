@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/wickra-lib/wickra-compile/actions/workflows/ci.yml/badge.svg)](https://github.com/wickra-lib/wickra-compile/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/wickra-lib/wickra-compile/branch/main/graph/badge.svg)](https://codecov.io/gh/wickra-lib/wickra-compile)
-[![Go module](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/go.svg)](https://pkg.go.dev/github.com/wickra-lib/wickra-compile-go)
+[![Go module](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-compile/go.svg)](https://pkg.go.dev/github.com/wickra-lib/wickra-compile-go)
 [![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT_OR_Apache--2.0-blue)](https://github.com/wickra-lib/wickra-compile#license)
 
 **Deterministic strategy compilation for Go, over the Wickra C ABI hub via cgo.**
